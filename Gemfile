@@ -18,7 +18,7 @@ gem 'name_of_person'
 gem 'oj'
 # Use Active Storage variant
 
-gem 'image_processing', '~> 1.2'
+gem 'image_processing', '~> 1.12'
 
 gem 'bootsnap', '>= 1.4.2', require: false
 gem 'rack-cors'
